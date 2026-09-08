@@ -1,6 +1,4 @@
-# ZombieW
-
-<h1 align="center">Olá, eu sou Douglas 👋</h1>
+<h1 align="center">Olá, eu sou Douglas Lodetti 👋</h1>
 
 <p align="center">
   <img
@@ -17,7 +15,7 @@
 
 ## 🚀 Sobre mim
 
-Sou **Specialist Software Engineer** com foco em desenvolvimento **AI-First**, arquitetura de software, automação e construção de soluções orientadas a negócio.
+Atuo como **Specialist Software Engineer** com foco em desenvolvimento **AI-First**, arquitetura de software, automação e construção de soluções orientadas a negócio.
 
 Gosto de trabalhar na interseção entre **engenharia de software, inteligência artificial e melhoria de processos**, buscando não apenas automatizar tarefas, mas entender como o fluxo pode ser redesenhado antes da automação.
 

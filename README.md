@@ -62,16 +62,16 @@ Atualmente exploro arquiteturas envolvendo **LLMs, agentes de IA, RAG, automa√ß√
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api?username=ZombieW13&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieW13&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ZombieW13&theme=tokyo-night&hide_border=true"
   />
 </p>
 
@@ -81,7 +81,7 @@ Atualmente exploro arquiteturas envolvendo **LLMs, agentes de IA, RAG, automa√ß√
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/SEU_USUARIO/ZombieW13/output/github-contribution-grid-snake-dark.svg"
     alt="Snake animation"
   />
 </p>

@@ -25,8 +25,11 @@ Atualmente exploro arquiteturas envolvendo **LLMs, agentes de IA, RAG, automaç�
 
 ## 🧠 Stack & Tecnologias
 
+<!--<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,go,ts,js,angular,react,electron,vue,cs,docker,git,github,aws,gcp,postgres,mysql,mongodb&perline=10" />
+</p>-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,go,ts,js,angular,react,docker,git,github,aws,gcp,postgres,mysql,mongodb&perline=9" />
+  <img src="https://i.imgur.com/mkVhjRy.png" />
 </p>
 
 ### Inteligência Artificial

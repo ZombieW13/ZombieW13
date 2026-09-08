@@ -60,37 +60,11 @@ Atualmente exploro arquiteturas envolvendo **LLMs, agentes de IA, RAG, automaç�
 
 ## 📊 GitHub
 
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=ZombieW13&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZombieW13&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ZombieW13&theme=tokyo-night&hide_border=true"
-  />
-</p>
 
 ---
 
 ## 🐍 Contributions
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/SEU_USUARIO/ZombieW13/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
-  />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZombieW13&label=Profile+Views&color=00D9FF&style=for-the-badge" />
-</p>
 
 <p align="center">
   <b>Building software. Improving processes. Applying AI where it actually creates value.</b>

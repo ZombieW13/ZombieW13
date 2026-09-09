@@ -76,7 +76,7 @@ Visualizador local de atributos do Combat Arms, com suporte a arquivos DTX, extr
 
 `JavaScript` `Data Extraction` `Reverse Engineering`
 
-🔒 [Relased on version 1.9.0](https://github.com/ZombieW13/Combat-Arms-Catalog.git)
+📦 [Released on version 1.9.0](https://github.com/ZombieW13/Combat-Arms-Catalog.git)
 
 ---
 

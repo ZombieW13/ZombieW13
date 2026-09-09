@@ -36,7 +36,8 @@ Atualmente exploro arquiteturas envolvendo **LLMs, agentes de IA, RAG, automaç�
 
 <p align="center">
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20%2F%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-AWS-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge\&logo=anthropic\&logoColor=white)
 
@@ -59,14 +60,33 @@ Atualmente exploro arquiteturas envolvendo **LLMs, agentes de IA, RAG, automaç�
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub & Contributions
 
+### 🏭 IndustrialClassic
+Recriação e modernização da experiência industrial clássica do Minecraft, 
+com sistemas próprios de energia, máquinas, automação, processamento de recursos 
+e progressão tecnológica.
 
+`Java` `Minecraft Modding` `Gradle` `Software Architecture` `AI-Assisted Development`
+
+🚧 Em desenvolvimento
 
 ---
 
-## 🐍 Contributions
+### 🎮 CACatalog
+Visualizador local de atributos do Combat Arms, com suporte a arquivos DTX, 
+extração de REZ e ferramentas próprias para análise dos dados do jogo.
 
-<p align="center">
-  <b>Building software. Improving processes. Applying AI where it actually creates value.</b>
-</p>
+`JavaScript` `Data Extraction` `Reverse Engineering`
+
+🔒 Projeto privado
+
+---
+
+### 📊 Previsão Mega-Sena
+Projeto experimental desenvolvido em Python para análise e exploração 
+estatística de resultados da Mega-Sena.
+
+`Python` `Data Analysis` `Statistics`
+
+🌐 Projeto público

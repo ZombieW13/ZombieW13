@@ -63,9 +63,7 @@ Atualmente exploro arquiteturas envolvendo **LLMs, agentes de IA, RAG, automaç�
 ## 📊 GitHub & Contributions
 
 ### 🏭 IndustrialClassic
-Recriação e modernização da experiência industrial clássica do Minecraft, 
-com sistemas próprios de energia, máquinas, automação, processamento de recursos 
-e progressão tecnológica.
+Recriação e modernização da experiência industrial clássica do Minecraft, com sistemas próprios de energia, máquinas, automação, processamento de recursos e progressão tecnológica.
 
 `Java` `Minecraft Modding` `Gradle` `Software Architecture` `AI-Assisted Development`
 
@@ -73,13 +71,12 @@ e progressão tecnológica.
 
 ---
 
-### 🎮 CACatalog
-Visualizador local de atributos do Combat Arms, com suporte a arquivos DTX, 
-extração de REZ e ferramentas próprias para análise dos dados do jogo.
+### 🎮 Combat Arms Catalog
+Visualizador local de atributos do Combat Arms, com suporte a arquivos DTX, extração de REZ e ferramentas próprias para análise dos dados do jogo.
 
 `JavaScript` `Data Extraction` `Reverse Engineering`
 
-🔒 Projeto privado
+🔒 [Relased on version 1.9.0](https://github.com/ZombieW13/Combat-Arms-Catalog.git)
 
 ---
 
